@@ -26,6 +26,7 @@ body{
     flex-direction: column;
     justify-content: space-around;
     text-align: center;
+    max-width:70%;
     width:60%;
     padding:6%;
     color:white;
